@@ -16,9 +16,9 @@ node src/script.js --file [csv file path] --output [output directory for the JSO
 
 ### Options
 
---help Show help
---file, -f The path to the input CSV file (required)
---output, -o The path to the output directory for the JSON files (required)
+1. --help Show help
+2. --file, -f The path to the input CSV file (required)
+3. --output, -o The path to the output directory for the JSON files (required)
 
 ### Example
 
