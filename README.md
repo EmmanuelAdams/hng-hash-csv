@@ -6,13 +6,13 @@ This tool takes a CSV containing records of NFTs from different teams and genera
 
 Run npm install to install the dependencies
 
-## Test
+## Run
 
-npm run test
+npm run start
 
 ## Usage
 
-node src/script.js --file <csv file path> --output <output directory for the JSON files>
+node src/script.js --file [csv file path] --output [output directory for the JSON files]
 
 ### Options
 
